@@ -1,12 +1,12 @@
 # Dmoney-Jmeter-Project
 
 ## Performed the following operations using jmeter:
-# Login 
-# Search user manually using id
-# Create user dynamically
-# Search user through dynamic id
-# Update user phone_no
-# Delete the user
+## *Login 
+## *Search user manually using id
+## *Create user dynamically
+## *earch user through dynamic id
+## *Update user phone_no
+## *Delete the user
 
 ## The html report of the mentioned operation:
 
