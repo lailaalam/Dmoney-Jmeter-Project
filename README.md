@@ -4,7 +4,7 @@
 ## *Login 
 ## *Search user manually using id
 ## *Create user dynamically
-## *earch user through dynamic id
+## *Search user through dynamic id
 ## *Update user phone_no
 ## *Delete the user
 
